@@ -52,7 +52,7 @@
     "knitwork": "^1.0.0",
     "listhen": "^1.0.4",
     "mdast-util-to-hast": "^12.3.0",
-    "mdurl": "^1.0.1",
+    "mdurl": "^2.0.0",
     "ohash": "^1.1.2",
     "pathe": "^1.1.0",
     "property-information": "^6.2.0",
